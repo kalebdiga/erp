@@ -35,8 +35,10 @@
                     "root": "api/introduction",
                     "pages": [
                       "api-reference/introduction",
-                      "api-reference/endpoint/transaction",
-                      "api-reference/endpoint/verification",
+                      "api-reference/endpoint/get-institutions",
+                      "api-reference/endpoint/initiate-payment",
+                      "api-reference/endpoint/account-lookup",
+                      "api-reference/endpoint/verify-otp-payment",
                       "api-reference/test-numbers",
                       "api-reference/sign"
                     ]
@@ -56,8 +58,10 @@
               {
                 "group": "Endpoints",
                 "pages": [
-                  "api-reference/endpoint/transaction",
-                  "api-reference/endpoint/verification"
+                  "api-reference/endpoint/get-institutions",
+                  "api-reference/endpoint/initiate-payment",
+                  "api-reference/endpoint/account-lookup",
+                  "api-reference/endpoint/verify-otp-payment"
                 ]
               },
               {

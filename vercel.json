@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npx mintlify build",
+  "outputDirectory": "_site"
+}

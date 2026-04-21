@@ -1,0 +1,13 @@
+{
+  "name": "starpay-erp-docs",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "mintlify dev",
+    "build": "mintlify build",
+    "broken-links": "mintlify broken-links"
+  },
+  "devDependencies": {
+    "mintlify": "latest"
+  }
+}
